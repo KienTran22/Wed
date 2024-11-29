@@ -1,0 +1,34 @@
+Câu 1. Hệ thống nhớ của máy tính bao gồm:
+A. Bộ nhớ trong, Bộ nhớ ngoài
+B. Cache, Bộ nhớ ngoài
+C. Bộ nhớ ngoài, ROM
+D. Đĩa quang, Bộ nhớ trong
+Đáp án: A
+
+Câu 2. Trong mạng máy tính, thuật ngữ Share có ý nghĩa gì?
+A. Chia sẻ tài nguyên
+B. Nhãn hiệu của một thiết bị kết nối mạng
+C. Thực hiện lệnh in trong mạng cục bộ
+D> Một phần mềm hỗ trợ sử dụng mạng cục bộ
+Đáp án: A
+
+Câu 3. Cho biết cách xóa một tập tin hay thư mục mà không di chuyển vào Recycle Bin:?
+A. Chọn thư mục hay tâp tin cần xóa -> Delete
+B. Chọn thư mục hay tâp tin cần xóa -> Ctrl + Delete
+C. Chọn thư mục hay tâp tin cần xóa -> Alt + Delete
+D. Chọn thư mục hay tâp tin cần xóa -> Shift + Delete
+Đáp án: D
+
+Câu 4. Các thiết bị nào thông dụng nhất hiện nay dùng để cung cấp dữ liệu cho máy xử lý?
+A. Bàn phím (Keyboard), Chuột (Mouse), Máy in (Printer) 
+B. Máy quét ảnh (Scaner).
+C. Bàn phím (Keyboard), Chuột (Mouse) và Máy quét ảnh (Scaner).
+D. Máy quét ảnh (Scaner), Chuột (Mouse)
+Đáp án: C
+
+Câu 5. Khái niệm hệ điều hành là gì ?
+A. Cung cấp và xử lý các phần cứng và phần mềm
+B. Nghiên cứu phương pháp, kỹ thuật xử lý thông tin bằng máy tính điện tử
+C. Nghiên cứu về công nghệ phần cứng và phần mềm
+D. Là một phần mềm chạy trên máy tính, dùng để điều hành, quản lý các thiết bị phần cứng và các tài nguyên phần mềm trên máy tính
+Đáp án: D

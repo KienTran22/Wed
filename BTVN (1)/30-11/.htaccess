@@ -1,0 +1,11 @@
+# Bật Rewrite Engine
+RewriteEngine On
+
+# Điều kiện để không rewrite nếu tệp hoặc thư mục đã tồn tại
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Chuyển hướng mọi yêu cầu đến index.php với tham số query string
+RewriteRule ^(.*)$ index.php/$1 [QSA,L]
+
+# example.com/employees thay vì example.com/employees.php

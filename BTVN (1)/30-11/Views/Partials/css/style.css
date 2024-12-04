@@ -1,0 +1,42 @@
+/* General Body and Layout */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Navbar */
+header {
+    background-color: #ffffff;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #ffffff !important;
+    font-weight: 500;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #f8f9fa !important;
+    text-decoration: underline;
+}
+
+/* Thêm khoảng cách giữa Navbar và Button Add Employee */
+.button-margin {
+    margin-top: 30px;
+    /* Thêm khoảng cách tùy chỉnh */
+}
+
+/* Footer */
+.footer {
+    background-color: #343a40;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* For Small Screens: Add padding to footer to prevent overlap */
+@media (max-width: 576px) {
+    footer {
+        padding: 10px;
+    }
+}
